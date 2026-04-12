@@ -1,5 +1,3 @@
-# 🎬 Netflix UI Clone
-
 <p align="center">
   <img src="https://share.google/I0lZrhGprP0jb0OLJ" alt="Netflix UI Clone Banner" width="100%"/>
 </p>
