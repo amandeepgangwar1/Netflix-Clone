@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/5KX6K0H.png" alt="Netflix UI Clone Banner" width="100%"/>
+  <img src="./assets/banner.png" alt="Netflix UI Clone Banner" width="100%"/>
 </p>
 
 <h1 align="center">🎬 Netflix UI Clone</h1>
