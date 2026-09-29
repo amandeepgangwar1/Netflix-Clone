@@ -55,9 +55,6 @@ ___
 
 ---
 
-## 📂 Project Structure
-
----
 
 ## 🎨 UI Sections
 
